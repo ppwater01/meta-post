@@ -1,16 +1,25 @@
-I am attempting to organize a Stack Overflow **chat room**: [Reopen Vote Reviewers of SO](https://chat.stackoverflow.com/rooms/227446/reopen-vote-reviewers-of-so). Its purpose is **to help users in the reopening process of closed posts** on Stack Overflow.
+I am organizing a Stack Overflow **chat room**: [Reopen Vote Reviewers of SO](https://chat.stackoverflow.com/rooms/227446/reopen-vote-reviewers-of-so). Its purpose is **to help users in the reopening process of closed posts** on Stack Overflow.
 
 Currently, there is already a room that handles reopen vote requests, and that room is [SO Close Vote Reviewers](https://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers). It's pretty clear in its name that its main purpose is to handle close vote requests, which makes sense as there are far more posts that need to be closed then reopened.
 
-But even though you can request to reopen a post in SOCVR, [you cannot request action on any post where you are involved](https://socvr.org/faq#GEfM-no-requests-youre-involved), and being the poster of the post is the highest form of involvement.
+But even though you can request to reopen a post in SOCVR, [you cannot request an action on any post where you are involved](https://socvr.org/faq#GEfM-no-requests-youre-involved), and being the author of the post is the highest form of involvement.
 
-RVRSO, on the other hand, welcomes reopen requests on any posts, **including ones that belong to the requester**. This way, if your question got closed, you will have a **better chance to have it reopened on time**, as the review queue can sometimes be careless and/or slow.
+RVRSO, on the other hand, welcomes reopen requests on any posts, **including ones that belong to the requester**. This way, if your question got closed, you will have a **better chance to have it reopened**, as reviewers in the review queue, especially new ones, can sometimes be careless with the votes. Also, if the review queue is too slow, your post might get Roombaed before getting out of the queue.
 
 Of course, if your post got closed for the right reason, you'll need to **edit it into shape before requesting to reopen** it. And every reopen request must be accompanied with a clear explanation as to why the post warrants a reopening. Rules of the potential chat room here: https://github.com/RVRSO/rvrso.github.io/blob/main/README.md
 
+Personally, I have a post on Stack Overflow that I don't understand why it got closed, but I don't really have a proper place to bring up the issue, besides posting on Meta, which just might unleash the dreaded Meta effect.
+
 This room may **reduce the amount of "*[Why was my post closed?](https://meta.stackoverflow.com/search?q=title%3Awhy+*+my+*+closed)*" kind of posts on Meta**, as users will have a chat room that focuses on such issues to help them understand the system and/or guide them as to how their post can be improved to be fit for reopening.
 
-To address the concerns brought up by a respected moderator of Stack Overflow, [1](https://chat.stackoverflow.com/transcript/message/51407975#51407975) and [2](https://chat.stackoverflow.com/transcript/message/51408084#51408084):
+To address the concerns bought up by a respected moderator of Stack Overflow, [1](https://chat.stackoverflow.com/transcript/message/51407965#51407965), [2](https://chat.stackoverflow.com/transcript/message/51407975#51407975), [3](https://chat.stackoverflow.com/transcript/message/51408005#51408005) and [4](https://chat.stackoverflow.com/transcript/message/51408084#51408084):
+
+---
+
+> A voting cabal is a problem, regardless of what type of votes they're handing out. 
+
+I, and the other ROs, will ensure this room does not become a voting cabal. 
+If necessary, every post reopened due to a request in the room will need to come with a comment linking to the proposal in the room.
 
 ---
 
@@ -22,9 +31,16 @@ Also, as far as I'm aware, there is currently only one chat room that deals with
 
 ---
 
-> You need to (1) articulate a clear vision for what you want the room to do, and (2) have a number of people you trust who want to take on ownership of the room and responsibility for its vision/purpose.
+> It is regrettably true that the fact that one such group exists kinda forecloses the possibility of others, since it is not reasonable to moderate a large number of such rooms. 
 
-For (1): RVRSO is a chat room where users can propose to reopen posts on Stack Overflow, including proposing to reopen their own post that have been closed.
+I understand how much more work it would be to moderate another room. However, since this room is new, there would most likely be little to no traffic.
+If the traffic gets by any means higher than low, perhaps this room will lighten the load on the existing room.
+
+---
+
+> You need to (1) articulate a clear vision for what you want the room to do, and (2) have a number of people you trust who want to take on ownership of the room and responsibility for its vision/purpose. 
+
+For (1): RVRSO is a chat room where users can propose to reopen posts on Stack Overflow, including proposing to reopen their own post that have been closed.  
 For (2): I have a number of people I trust, but unfortunately, none have yet agreed to take on ownership of the room *(I didn't ask anyone either)*.
 
 I believe that users will be more willing to take ownership of this room if enough people agree with my decision to open another chat room for the purpose described, hence I am dropping this meta post to get the community's approval before asking anyone to be a room owner.
