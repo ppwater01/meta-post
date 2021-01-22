@@ -18,11 +18,11 @@ To address the concerns brought up by a respected moderator of Stack Overflow, [
 
 I can see how this would be a problem. The good thing is, this being a new room, unless someone goes out of their way to promote the chat room, there would most likely be little to no traffic, making it much easier to moderate.
 
-Also, as far as I'm aware, there is currently only one chat room that deals with site moderation by non-diamond holders; I'm sure this one more would do enough good the be worth it. Besides, it may even help lighten the load on SOCVR and Meta.
+Also, as far as I'm aware, there is currently only one chat room that deals with site moderation by non-diamond holders; I'm sure this one more would do enough good to be worth it. Besides, it may even help lighten the load on SOCVR and Meta.
 
 ---
 
-> You need to (1) articulate a clear vision for what you want the room to do, and (2) have a number of people you trust who want to take on ownership of the room and responsibility for its vision/purpose. 
+> You need to (1) articulate a clear vision for what you want the room to do, and (2) have a number of people you trust who want to take on ownership of the room and responsibility for its vision/purpose.
 
 For (1): RVRSO is a chat room where users can propose to reopen posts on Stack Overflow, including proposing to reopen their own post that have been closed.
 For (2): I have a number of people I trust, but unfortunately, none have yet agreed to take on ownership of the room *(I didn't ask anyone either)*.
