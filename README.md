@@ -4,7 +4,7 @@ Currently, there is already a room that handles reopen vote requests, and that r
 
 But even though you can request to reopen a post in SOCVR, [you cannot request an action on any post where you are involved](https://socvr.org/faq#GEfM-no-requests-youre-involved), and being the author of the post is the highest form of involvement.
 
-RVRSO, on the other hand, welcomes reopen requests on any posts, **including ones that belong to the requester**. This way, if your question got closed, you will have a **better chance to have it reopened**, as reviewers in the review queue, especially new ones, can sometimes be careless with the votes. Also, if the review queue is too slow, your post might get Roombaed before getting out of the queue.
+RVRSO, on the other hand, welcomes reopen requests on any posts, **including ones that belong to the requester**. This way, if your question got closed, you will have a **better chance to have it reopened**. Also, if the review queue is too slow, your post might get Roombaed before getting out of the queue.
 
 Of course, if your post got closed for the right reason, you'll need to **edit it into shape before requesting to reopen** it. And every reopen request must be accompanied with a clear explanation as to why the post warrants a reopening. Rules of the potential chat room here: https://github.com/RVRSO/rvrso.github.io/blob/main/README.md
 
