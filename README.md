@@ -8,11 +8,9 @@ RVRSO, on the other hand, welcomes reopen requests on any posts, **including one
 
 Of course, if your post got closed for the right reason, you'll need to **edit it into shape before requesting to reopen** it. And every reopen request must be accompanied with a clear explanation as to why the post warrants a reopening. Rules of the potential chat room here: https://github.com/RVRSO/rvrso.github.io/blob/main/README.md
 
-Personally, I have a post on Stack Overflow that I don't understand why it got closed, but I don't really have a proper place to bring up the issue, besides posting on Meta, which just might unleash the dreaded Meta effect.
-
 This room may **reduce the amount of "*[Why was my post closed?](https://meta.stackoverflow.com/search?q=title%3Awhy+*+my+*+closed)*" kind of posts on Meta**, as users will have a chat room that focuses on such issues to help them understand the system and/or guide them as to how their post can be improved to be fit for reopening.
 
-To address the concerns bought up by a respected moderator of Stack Overflow, [1](https://chat.stackoverflow.com/transcript/message/51407975#51407975) and [2](https://chat.stackoverflow.com/transcript/message/51408084#51408084):
+To address the concerns brought up by a respected moderator of Stack Overflow, [1](https://chat.stackoverflow.com/transcript/message/51407975#51407975) and [2](https://chat.stackoverflow.com/transcript/message/51408084#51408084):
 
 ---
 
