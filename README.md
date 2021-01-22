@@ -19,7 +19,7 @@ To address the concerns bought up by a respected moderator of Stack Overflow, [1
 > A voting cabal is a problem, regardless of what type of votes they're handing out. 
 
 I, and the other ROs, will ensure this room does not become a voting cabal. 
-I've prepared [a rule](https://github.com/RVRSO/rvrso.github.io/blob/main/README.md#casting-a-reopen-vote-on-a-proposed-post) that will be enfored to keep this room from becoming a voting cabal. It basically says that a reopen proposal *must* come with an explanation before anybody can cast a vote, details are in the link.
+I've prepared [a rule](https://github.com/RVRSO/rvrso.github.io/blob/main/README.md#casting-a-reopen-vote-on-a-proposed-post) that will be enforced to keep this room from becoming a voting cabal. It basically says that a reopen proposal *must* come with an explanation before anybody can cast a vote, details are in the link.
 
 ---
 
